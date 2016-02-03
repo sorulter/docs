@@ -6,3 +6,5 @@
 
 ### 1.2 [Android WiFi](content/configure/Android_WiFi.md)
 
+### 1.3 [Mac WiFi](content/configure/Mac.md) 
+
